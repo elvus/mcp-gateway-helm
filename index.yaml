@@ -3,12 +3,12 @@ entries:
   mcp-gateway:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-07T20:37:12.451271-03:00"
+    created: "2025-06-07T21:05:18.116048-03:00"
     description: A Helm chart for MCP-Gateway
-    digest: 9b34743a78c713d2a4334b8abfbd062d9f5fe09d3cf9a777feb6c43ed649dbff
+    digest: b9393abaca3e6e2e4202998161c245a55eaf3f23aedd52eacca35eae582ac3fc
     name: mcp-gateway
     type: application
     urls:
     - mcp-gateway-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-07T20:37:12.450389-03:00"
+generated: "2025-06-07T21:05:18.11494-03:00"
